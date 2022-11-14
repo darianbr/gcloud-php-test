@@ -1,4 +1,4 @@
 <?php
 
 $name = getenv('NAME', true) ?: 'World';
-echo sprintf('Hello %s!', $name);
+echo sprintf('SHello %s!', $name);
